@@ -4,7 +4,7 @@
 
 | Questions                                           |
 | --------------------------------------------------- |
-| [Acronymns of a Sentence] (https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Acronymns%20of%20a%20Sentence.ipynb)|
+| [Acronymns of a Sentence](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Acronymns%20of%20a%20Sentence.ipynb)|
 | Alarm Clock                                         |
 | Code Generator                                      |
 | Compute Deviation                                   |
