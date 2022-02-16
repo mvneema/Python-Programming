@@ -15,6 +15,6 @@
 | [Weekly Aggregation](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Weekly%20Aggregation.ipynb)                                 |
 | [Find bigrams](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/find%20bigrams.ipynb)                                             | 
 | [Ace the Data Science Interview Book - Coding Concepts](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Ace%20the%20Data%20Science%20Interview%20Book%20-%20Coding%20Concepts%20.ipynb)|
-|* [Arrays](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Ace%20the%20Data%20Science%20Interview%20Book%20-%20Coding%20Concepts%20.ipynb)|
+|   - [Arrays](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Ace%20the%20Data%20Science%20Interview%20Book%20-%20Coding%20Concepts%20.ipynb)|
 | [Practice Exercises - Ace the Data Science Interview](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Practice%20Exercises%20-%20Ace%20the%20Data%20Science%20Interview.ipynb) |
 | [Easy Problems - Leet Code](https://github.com/mvneema/Python-Programming/blob/main/Python%20Programming%20-%20Beginner/Easy%20Problems%20-%20Leet%20Code.ipynb)             |
